@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 800 800" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="290.62653" y1="0" x2="13.739706" y2="392.83664" id="gradient_1">
+      <stop offset="0%" stop-color="#CBB26A" />
+      <stop offset="100%" stop-color="#BE9E44" />
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="286.67816" y1="7.74137E-07" x2="4.9544775E-05" y2="377.45987" id="gradient_2">
+      <stop offset="0%" stop-color="#BE9E44" />
+      <stop offset="100%" stop-color="#CBB26A" />
+    </linearGradient>
+    <path d="M0 0L800 0L800 800L0 800L0 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="modiluxe" clip-path="url(#clip_1)">
+    <path d="M0 0L800 0L800 800L0 800L0 0Z" id="modiluxe" fill="none" fill-rule="evenodd" stroke="none" />
+    <g id="Group" transform="translate(190.98676 81)">
+      <path d="M11.3857 276.809C37.0036 228.635 290.626 0 290.626 0L290.626 115.269L11.3857 392.837C11.3857 392.837 -14.2321 324.982 11.3857 276.809Z" id="Rectangle" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+      <path d="M126.653 296.285L402.645 25.975L402.645 122.573L126.653 392.07L126.653 296.285Z" id="Rectangle-2" fill="#BE9E44" fill-rule="evenodd" stroke="none" />
+      <path d="M11.3859 530.878L287.378 260.568L287.378 357.166L11.3859 626.663L11.3859 530.878Z" id="Rectangle-2-Copy" fill="#BE9E44" fill-rule="evenodd" stroke="none" />
+      <path d="M116.912 539.269L402.646 260.568C402.646 260.568 438.214 300.513 402.646 360.164C367.077 419.816 116.912 638.028 116.912 638.028L116.912 539.269Z" id="Rectangle-2-Copy-2" fill="url(#gradient_2)" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
